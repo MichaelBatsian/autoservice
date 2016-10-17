@@ -1,0 +1,130 @@
+body {
+    padding-top: 50px;
+}
+.em-text{
+    color: #1caa98 !important;
+}
+.jumbotron{
+    background: url(../img/backgroundblacklast.gif) no-repeat top center;
+    color: #fff;
+    height: 750px;
+
+  }
+.forum{
+    background: #b5b5b5;
+    padding: 20px;
+    overflow: auto;
+    min-height: 500px;
+}
+.forumhead{
+    background: lightslategray;
+    color: rgba(255, 137, 0, 0.81);
+    height: auto;
+
+   }
+p.forumhead{
+    text-align: left;
+    text-align: justify;
+}
+
+.carlabel{
+    width: 95px;
+
+}
+
+.starter-template{
+    background: #1caa98;
+}
+
+.navmenu{
+    width: 350px;
+    font-size: 30px;
+    padding: 30px;
+    padding-top: 40px;
+    padding-left: 50px;
+    color: #fff !important;
+    font-stretch: extra-expanded;
+
+}
+.btns{
+    color: #fff;
+    background-color:rgba(144, 144, 144, 0.23) ;
+    margin-right: 40px;
+    height: 20px;
+}
+
+.search {
+    margin-right: 20px;
+}
+
+.content{
+    margin-top: 50px;
+    font-size: 12px;
+    padding: 30px;
+}
+
+a{
+    color: white;
+}
+a.navmenu{
+    color: #fff !important;
+}
+#menu-text{
+    color: white !important;
+    text-shadow: #1caa98 1px 0px, #1caa98 1px 1px;
+}
+
+h1{
+    margin-top: -15px;
+}
+section#feature{
+    background: #1caa98;
+    color: #fff;
+    padding: 20px;
+    overflow: auto;
+    margin-top:-10%;
+
+}
+
+footer{
+    background: #333333;
+    color: #fff;
+    padding: 30px 0 20px 0;
+}
+
+footer li{
+    float: left;
+    padding:0 10px 0 10px;
+    list-style: none;
+}
+
+footer a{
+    color: #fff;
+}
+
+footer p{
+    float: right;
+    padding:0 10px 0 10px;
+}
+
+#list{
+    margin-top: 50px;
+}
+
+#list li{
+    list-style-type: none;
+    margin: 15px;
+}
+
+#list a{
+    width: 200px;
+}
+
+.topicTheme fieldset {
+   border: #1874CD groove;
+   margin: 5px;
+   background: #9dd7ff;
+   }
+.topicTheme a {
+	color: black;
+}

@@ -1,0 +1,70 @@
+
+body {
+
+    background: rgba(144, 144, 144, 0.23);
+
+}
+
+.formhead{
+    background: lightslategray;
+    color: white;
+    height: auto;
+    margin-top: -50px;
+    overflow: auto;
+}
+
+.formfooter{
+    background: #4a545f;
+    color: white;
+    height:100px;
+    margin-top: 75px;
+
+}
+
+
+.phead{
+
+    font-size: large;
+    margin-top:20px;
+}
+
+.modal-dialog {
+
+    margin-top: 90px;
+
+}
+
+.tableform{
+
+    border-right: 1px;
+    text-align: center;
+    max-height: 530px;
+
+   }
+   
+   table{
+	
+	 max-height: 400px;
+	 overflow: scroll;
+	 
+}
+   
+.table{
+	
+	 max-height: 400px !important;
+	 overflow: scroll !important;
+	 
+}
+.btnstyle{
+    width: 170px;
+}
+
+.baseform{
+
+    text-align: center;
+    margin-top: 15px;
+    height: 550px;
+}
+.btnwidth{
+	width: 60px;
+	}

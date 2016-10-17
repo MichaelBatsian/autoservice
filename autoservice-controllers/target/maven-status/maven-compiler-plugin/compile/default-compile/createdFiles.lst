@@ -1,0 +1,7 @@
+controllers\AdminActionController.class
+controllers\OrderRedirectController.class
+controllers\AuthController.class
+controllers\BaseController.class
+controllers\RegistrationController.class
+controllers\AdminController.class
+controllers\UserController.class
